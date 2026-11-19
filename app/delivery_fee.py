@@ -1,6 +1,6 @@
 """Harbor Street Bakery: delivery fee (course sample code)."""
 
-DELIVERY_FEE = 4  # delivery fee
+DELIVERY_FEE = 400  # delivery fee
 FREE_DELIVERY_FROM_CENTS = 2500  # orders of $25.00 or more deliver free
 
 
